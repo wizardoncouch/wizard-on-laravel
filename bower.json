@@ -1,0 +1,11 @@
+{
+  "name": "My Blog",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "vue": "~0.12.10",
+    "bootstrap-sass-official": "~3.3.5",
+    "fontawesome": "~4.4.0",
+    "vue-router": "~0.5.1",
+    "bourbon": "~4.2.3"
+  }
+}
